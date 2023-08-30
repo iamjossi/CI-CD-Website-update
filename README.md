@@ -3,7 +3,7 @@
 **Project Report: Setting Up CodePipeline for Website Deployment**
 
 **Overview:**
-This project involved setting up an automated deployment process for a static website using AWS CodePipeline, GitHub, and Amazon S3. The objective was to establish an efficient and reliable workflow where updates made to a GitHub repository are automatically deployed to an S3 bucket, ensuring seamless website updates.
+This project involved setting up an automated deployment process for a static website using AWS CodePipeline and GitHub. The objective was to establish an efficient and reliable workflow where updates made to a GitHub repository are automatically deployed to an S3 bucket, ensuring seamless website updates.
 
 **Project Steps:**
 
